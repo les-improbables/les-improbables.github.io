@@ -61,6 +61,7 @@ Pour ce qui est des noms de fichiers :
 
 N'oubliez pas que si vous avez besoin que votre article ai un nom différent du nom de fichier, vous pouvez utiliser un [[Markdown#Frontmatter (métadonnées)|titre]] !
 
+N'oubliez pas d'utiliser le [[TODO]] si vous ne pouvez/voulez pas finir/écrire une page. Cela encouragera une autre personne à le faire.
 ## Tester localement
 
 Avant de proposer vos changements, vous pouvez testez le rendu si vous voulez :

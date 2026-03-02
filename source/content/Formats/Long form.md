@@ -1,3 +1,5 @@
 #LongForm 
 
 Le long form est un format de spectacle qui consiste à raconter une seule histoire pendant toute sa durée, qui dépasse généralement les 45 minutes. Il est généralement considéré comme plus technique et réservé aux comédien.nes avec un peu d'expérience en improvisation. On retrouve dans cette catégorie de nombreux formats narratifs, au schéma narratif habituel (situation initiale, élément perturbateur, péripéties, résolution), mais on peut y voir aussi d'autres formats créatifs et originaux. 
+
+Des exemples de spectacles au format long : [[Le Dîner]], l'[[Immeuble]], ou [[Entre ici et plus tard]].
