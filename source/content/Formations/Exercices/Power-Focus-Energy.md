@@ -23,7 +23,23 @@ Le **Power-Focus-Energy** est un exercice dans lequel les joueurs.euses se passe
 - **CLÉS DU SUCCÈS**
 	- Il est important d’exagérer les actions physique et les attitudes en prononçant les mots *power*, *focus* et *energy*. C'est un exercice qui peut beaucoup aider avec l'abilité de [[Gêne|passer outre la gêne]].
 
-## Version 2 : Optionnel
-Vous pouvez ajouter un ou plusieurs titres si votre exercice comprend une ou plusieurs autres versions.
-Si ce sont des v2, v3, etc..., soit des versions qui améliorent/modifient celle d'avant avec un ordre précis, appelez-les "Version N", ou "Version N : Nom" si la version a un nom.
-Si ce sont des variantes, parallèles à la version de base, alors appelez-les "Variante" ou "Variante : Nom" si la variante a un nom.
+## Version 2 : Quand tu me dis...
+Dans la version 2, les envoyeurs.euses peuvent maintenant dire *"Quand **tu** me dis <P/F/E>, **je** te dis <P/F/E>"*. Le.la récepteur.ice doit donc commencer l'échange en disant son mot, et l'envoyeur.euse le finir en disant le sien.
+
+Ça n'est pas obligatoire : les envoyeurs.euses peuvent très bien continuer à dire *"Quand **je** te dis <P/F/E>, **tu** me dis <P/F/E>"*.
+
+## Version 3 : Broadcasting
+Dans cette version 3, les joueurs.euses ne sont plus restreint à un échange simple entre deux personnes, et peuvent dire par exemple :
+- "Quand je te dis *Power!*, tout le monde te dit *Power!*"
+- "Quand trois personnes t'auront dit *Focus!*, tu diras *Energy~* à tout le monde un par un"
+- "Quand tu me dis *Energy~*, je dis *Power!* à tous les gens qui ont des cheveux courts"
+
+Les joueurs.euses sont cependant toujours restreints.es à l'utilisation des mots *Power!*, *Focus...* et *Energy~*.
+
+## Version 4 : Abstraction
+Dans cette version 4, les mots *Power!*, *Focus...* et *Energy~* ne sont plus obligatoire. On ne conserve en fait que le **schéma "Quand..., alors...**, le **jeu à tour de rôle** et l'**impératif de la command**. 
+
+On peut donc avoir des commandes telles que :
+- "Quand je te dis *bonjour*, tu me dis *bonsoir*"
+- "Quand tu me dis *vas-y*, je vais taper dans la main de chaque personne dans le cercle"
+- "Quand tu m'insulte, je pleure"
