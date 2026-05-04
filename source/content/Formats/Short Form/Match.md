@@ -90,15 +90,57 @@ L'***Arbitre*** peut choisir **d'allumer ou d'éteindre chaque chaîne individue
 >Cette catégorie est un [[TODO]] : cela signifie qu'elle n'a pas été remplie.
 >Elle est sûrement rare... N'hésitez tout-de-même pas à aller [[Taper sur le Wikiman]] si ce dernier tarde trop à remplir cette catégorie.
 ### À La Manière De...
+Dans cette catégorie, l'***Arbitre*** choisit à l'aide du ***Public*** un **genre artistique que la scène devra imiter** (<u>ex:</u> un Western, une série de super-héros, un film noir des années 20)
+Certaines catégories sont en fait des **À La Manière De...**, comme la [[#Comédie Musicale]]!
 ### Rembobinée
+Dans cette catégorie, une scène libre sera jouée, puis sera **rejouée à l'envers dans le temps**.
 ### Mitraillette
+Dans cette catégorie, qui est toujours de **type : mixte et joueurs : tous**, les joueurs.euses des deux équipes se mettent **contre le mur au fond de la scène, en alternant les équipes**.
+
+**Iels seront appelés.es un.e par un.e sur scène**. L'***Arbitre*** choisira un mot du ***Public***, puis ce.tte joueur.euse devra **jouer une scène de 1 minute, seul.e, avec comme [[Impulse|impulse]] ce mot**.
+>[!NOTE]
+>La **Mitraillette** est souvent utilisée de manière punitive par l'***Arbitre*** sur les joueurs.euses.
+>Cette catégorie est souvent utilisée en début de spectacle pour échauffer à sec les joueurs.euses, ou plus souvent **en fin de spectacle quand l'audience réclame plus**.
 ### Battle Royale 
+Dans cette catégorie, une scène sera jouée par **4 joueurs.euses**.
+
+À la fin de la scène, le ***Public*** votera pour un.e joueur.euse qui **sortira de la scène**.
+La scène est **rejouée**, **avec une personne en moins, mais toujours autant de personnages** : faisant que **les joueurs.euses encore sur scène doivent combler le trou**.
+
+À la fin de cette scène, rebelotte, **jusqu'à ce qu'il ne reste plus qu'un.e joueur.euse qui fasse une scène tout.e seul.e**.
+>[!TIP]
+>Comme pour la [[#Dégressive]] (mais pas autant), il est ici très amusant de **jouer beaucoup de mouvement, d'interactions et de dialogue** durant la première scène.
+>Cela forcera les joueurs.euses après à jouer des choses impossibles, **un superbe usage de [[Malice|malice]]!**
 ### Dégressive
+Dans cette catégorie, une scène de quelques minutes, libre, sera jouée.
+Ensuite, cette même scène sera **rejouée par les mêmes joueurs.euses avec des durées de plus en plus courte**, jusqu'à atteindre les quelques secondes (voire parfois même une **durée négative**, la scène se jouant alors come une [[#Rembobinée]])
+>[!TIP]
+>Un seul conseil sur les **Dégressives** : **il faut faire le plus de choses possible pendant la scène initiale**. Il faut qu'il n'y ait aucun contretemps, que tous.tes les joueurs.euses bougent tout le temps, que tout le monde parle, etc...
+>Cela rendra les scènes d'après, plus courtes, **complètement infaisables**, à la grande joie du public.
+>
+>Vous savez ce qu'on dit : 
+>>**"si tu ressors d'une dégressive et que tu penses que tu pourrais en faire une deuxième, t'as pas fait assez de choses dans la scène initiale"** 
+>> - Gabriel Gournay (si vous êtes auteur.ice de cette citation et que je me suis trompé, n'hésitez pas à me [[Taper sur le Wikiman|taper dessus]])
 ### Mur Au Milieu
+Dans cette catégorie, **la scène est divisée en deux de manière à ce que les bords gauche et droit de la scène soient au milieu**, séparé par un "mur" invisible et infranchissable.
+![[mur_au_milieu.jpg]]
+
+Les deux équipes vont jouer de chaque coté de la scène, **mais la scène et ses personnages sont constants** : si un membre de l'équipe à gauche sort de scène (à gauche), un **membre de l'équipe de droite jouant le même personnage doit rentrer à droite**.
 ### Assis Accroupi Debout Coucher
+Dans cette catégorie, les scènes se jouent à 4 joueurs.euses.
+Il doit toujours y avoir **un personnage debout, un accroupi, un assis et un couché au sol**.
+Si un personnage change de position, **les autres doivent s'accorder pour que la règle soit respectée**.
 ### Buzzer
+Dans cette scène, **deux à trois membres du *Public* seront désignés comme *Buzzers***, et iront s'assoir sur des chaises à l'avant de la scène.
+Iels choisissent un mot chacun.e et vont **répéter ce mot à chaque fois que l'on appuie sur leur tête**.
+L'objectif des joueurs.euses sur scène et de jouer en **incorporant ces *buzzers* et en les utilisant au milieu de leurs phrases**.
 ### Chantée
+Dans cette catégorie, toute réplique doit être chantée.
+> [!NOTE]
+> Cette catégorie peut être considéré par certains membres expérimentés des !mprobables comme une **abjecte forme de torture**.
 ### Carré des émotions
+Dans cette catégorie, la scène est **divisée en quatre, avec chaque zone correspondant à une émotion** (le plus souvent : **joie, colère, tristesse, peur**)
+Pour qu'un personnage ressente une émotion, **iel doit être dans la zone correspondante**. *Inversement, **un personnage dans une zone doit ressentir l'émotion correspondante**.*
 ### Abécédaire
 Dans cette catégorie, les **premières lettres de chaque réplique prononcée doivent suivre l'ordre alphabétique**.
 #### Exemple
@@ -112,10 +154,10 @@ Dans cette catégorie, les **premières lettres de chaque réplique prononcée d
 Dans cette scène, les joueurs.euses n'ont **pas le droit de bouger ou de faire des expressions faciales trop intenses**. En revanche, leurs personnages **peuvent et doivent bouger**.
 ### Carré Hollandais
 Dans cette scène, 4 joueurs.euses vont **se disposer en carré sur scène**. À chacun des 4 **binômes formés par les faces de ce carré**, on assigne **un mot qui servira d'[[Impulse|impulse]]**.
-```mermaid
-graph LR;
-	J1 --"Binôme 1"-- J2
-```
+
+On commence avec la scène du binôme 1 (les deux joueurs qui sont sur le devant du carré).
+L'***Arbitre*** peut décider de faire **pivoter le carré vers la gauche ou la droite**. Dans ce cas, les **joueurs.euses tournent** et le binôme se retrouvant à l'avant **commence sa scène**. 
+Si le binôme avait déjà commencé sa scène, les joueurs.euses **reprennent là où iels avaient été coupés.es**.
 ### Comédie Musicale
 Dans cette catégorie, les scènes doivent être jouées à la manière d'une comédie musicale.
 ### Carnage

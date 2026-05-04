@@ -1,5 +1,6 @@
 
 Bienvenue ! Ce guide vous explique comment participer à la construction collaborative de ce site.
+Si vous n'avez pas envie de contribuer pour une quelconque raison, vous pouvez toujours [[Taper sur le Wikiman|taper sur le Wikiman]].
 
 ## Pourquoi contribuer ?
 
